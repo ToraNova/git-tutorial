@@ -1,4 +1,4 @@
-this is my first commit. this is a tutorial for git.
+THIS IS A EXPIREMENTAL FUNCTION
 
 this is another line that will help peple know what this project is about
 
